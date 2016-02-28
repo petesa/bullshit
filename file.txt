@@ -1,2 +1,2 @@
 Ceci n'est pas un code
-This bit does not exist in the remote branch, I am just putting it here to pull GitHub's leg.
+This edit should be in both branches once the conflict is solved.
