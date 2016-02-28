@@ -1,2 +1,2 @@
 Ceci n'est pas un code
-This is a modification done in the remote branch to create a conflict.
+This edit should be in both branches once the conflict is solved.
