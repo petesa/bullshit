@@ -1,3 +1,4 @@
 Ceci n'est pas un code
 This edit should be in both branches once the conflict is solved.
 This is an edit that is going to be pulled from the remote branch.
+This is a new conflict, let's see if I can solve it without help...
