@@ -1,3 +1,3 @@
 Ceci n'est pas un code
 This edit should be in both branches once the conflict is solved.
-Yaaaay!!! I'm going to this all over until I get it right!!
+No more clash!!
